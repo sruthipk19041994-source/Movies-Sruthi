@@ -5,3 +5,12 @@ name : Maranamass
 released : 2025
 
 director : Sivaprasad
+
+2.
+
+name : Hridayapoorvam
+
+released : 2025
+
+director : Satyan Anthikad
+
